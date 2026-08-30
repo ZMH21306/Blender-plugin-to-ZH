@@ -9,13 +9,13 @@
 
 ## 📖 项目简介
 
-**Blender 插件汉化合集** 是一个精选 Blender 插件的简体中文汉化版本集合。每个插件均提供原始版本（`_ZH` 后缀为汉化版）和汉化版本，方便中文用户使用。所有插件均以 `.zip` 形式提供，可直接通过 Blender 的「安装插件」功能导入。
+**Blender 插件汉化合集** 是一个精选 Blender 插件的简体中文汉化版本集合。每个插件均提供原始版本和汉化版本，方便中文用户使用。所有插件均以 .zip 形式提供，可直接通过 Blender 的「安装插件」功能导入。
 
 ## 📦 插件列表
 
 | 插件 | 版本 | 说明 | 汉化版 |
 |------|------|------|--------|
-| [BlenderMCP](Blender-mcp/) | — | 通过 MCP 协议连接 Claude AI，实现 AI 辅助 3D 建模 | ✅ `Blender-mcp_ZH` |
+| [BlenderMCP](Blender-mcp/) | v1.8.0 | 通过 MCP 协议连接 Claude AI，实现 AI 辅助 3D 建模 | ✅ `Blender-mcp_ZH` |
 | [BlenderGIS](BlenderGIS_GIS数据文件导入_v2.2.15/) | v2.2.15 | GIS 数据文件导入 | ✅ `BlenderGIS_ZH.zip` |
 | [Blenderkit](Blenderkit_3D素材库_v3.21.0.260628/) | v3.21.0 | 3D 素材库 | ✅ `Blenderkit_ZH.zip` |
 | [Blosm](Blosm_真实地形数据_v2.7.27/) | v2.7.27 | 真实地形数据 | ✅ `Blosm_ZH.zip` |
@@ -23,7 +23,7 @@
 | [Step-importer](Step-importer_STEP文件导入_v1.2.1/) | v1.2.1 | STEP 文件导入 | ✅ `Step-importer_ZH.zip` |
 | [Super-io](Super-io_万能导入导出_v2.2.1/) | v2.2.1 | 万能导入导出 | ✅ `Super-io_ZH.zip` |
 
-## 🗂️ 项目结构
+## 🗂 项目结构
 
 ```
 Blender-plugin-to-ZH/
